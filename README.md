@@ -19,8 +19,8 @@ I chose to complete this task on AWS due to its robust infrastructure and scalab
 Choice of Ubuntu Instance
 For the server operating system, I selected Ubuntu due to its popularity, strong community support, and compatibility with a wide range of software packages and tools required for Magento 2. Ubuntu's LTS (Long Term Support) releases provide stability and security updates, making it suitable for long-term server deployments.
 
-Selection of t2.large Instance
-I opted for a t2.large instance type because it strikes a balance between performance and cost-effectiveness for running Elasticsearch and OpenSearch. The t2.large instance offers moderate CPU performance and a sufficient amount of memory, which is crucial for handling the indexing and search capabilities required by Elasticsearch and OpenSearch in a Magento 2 environment.
+Selection of t2.medium Instance
+I opted for a t2.medium instance type because it strikes a balance between performance and cost-effectiveness for running Elasticsearch and OpenSearch. The t2.large instance offers moderate CPU performance and a sufficient amount of memory, which is crucial for handling the indexing and search capabilities required by Elasticsearch and OpenSearch in a Magento 2 environment.
 
 
 ## Step 2: Server Setup Commands
